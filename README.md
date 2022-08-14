@@ -1,1 +1,3 @@
-# devopscodecicd
+# maven-project
+
+Simple Maven Project
